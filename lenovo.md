@@ -1,5 +1,6 @@
 # Lenovo
 ## MPN examples.
+| Example Code   | Type    |
 |----------------|---------|
 | 21AH001CUS     | Notebook |
 | 83DV0008AX     | Notebook |
