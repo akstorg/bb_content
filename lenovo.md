@@ -1,12 +1,14 @@
 # Lenovo
 ## MPN examples. Describe the pattern
-Exaple: 21AH001CUS  - notebook
-Exaple: 83DV0008AX  - notebook
-Exaple: 11EE0002AU - Desktops
-Exaple: F0G10002CK - AIO
+| Example Code   | Type    |
+|----------------|---------|
+| 21AH001CUS     | Notebook |
+| 83DV0008AX     | Notebook |
+| 11EE0002AU     | Desktop  |
+| F0G10002CK     | AIO      |
 
 ## Model names. Unique or not
-Product - ThinkPad T14 Gen 3 (Intel)
+Exaple: Product - ThinkPad T14 Gen 3 (Intel)
 Product name not Unique. 
 
 ## Regions. How this is reflected in the numbers
