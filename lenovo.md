@@ -1,5 +1,5 @@
 ## Title
-Lenovo
+### Lenovo
 
 ## MPN examples. Describe the pattern
 Exaple: 21AH001CUS  - notebook
@@ -10,6 +10,7 @@ Exaple: F0G10002CK - AIO
 ## Model names. Unique or not
 Product - ThinkPad T14 Gen 3 (Intel)
 Product name not Unique. 
+
 ## Regions. How this is reflected in the numbers
 
 ## Incorrect part numbers. Possible distortions
