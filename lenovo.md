@@ -1,6 +1,5 @@
 # Lenovo
-## MPN examples. Describe the pattern
-| Example Code   | Type    |
+## MPN examples.
 |----------------|---------|
 | 21AH001CUS     | Notebook |
 | 83DV0008AX     | Notebook |
