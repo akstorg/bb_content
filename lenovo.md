@@ -1,4 +1,4 @@
-## Lenovo
+# Lenovo
 ## MPN examples. Describe the pattern
 Exaple: 21AH001CUS  - notebook
 Exaple: 83DV0008AX  - notebook
